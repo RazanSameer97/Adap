@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="custom_post_follow">متابعة</string>
+    <string name="custom_post_following">المتابعين</string>
+    <string name="custom_post_followers">المتابعين</string>
+    <string name="custom_post_posts">المنشورات</string>
+    <string name="custom_post_like">الإعــجاب</string>
+    <string name="custom_post_share">المشاركة</string>
+    <string name="custom_post_comment">التعليق</string>
+</resources>

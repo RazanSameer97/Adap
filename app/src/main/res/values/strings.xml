@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">RAZANSAMEERABUSHABAN_ADAPTER_TASK4</string>
+    <string name="custom_post_follow" translatable="false">FOLLOW</string>
+    <string name="custom_post_following" translatable="false">FOLLOWING</string>
+    <string name="custom_post_followers" translatable="false">FOLLOWERS</string>
+    <string name="custom_post_posts" translatable="false">POSTS</string>
+    <string name="custom_post_like" translatable="false">LIKE</string>
+    <string name="custom_post_share" translatable="false">SHARE</string>
+    <string name="custom_post_comment" translatable="false">COMMENT</string>
+</resources>
